@@ -6,7 +6,7 @@
 (1) 引用XuguClient.dll动态库文件;
 (2) 将XGCSQL.dll和XuguClient.XML文件放于生成的应用程序的同级目录下；
 
-demo主要演示了XuGuCSHARP的以下几点功能：
+demo主要演示了XuGu C#驱动操作数据库的以下几点功能：
 (1) 构建连接（连接单机和连接集群）；
 (2) 执行DDL、不带参数的DML语句；
 (3) 执行带参数的SQL语句，包含了CSHARP绑定参数的几种方式；
